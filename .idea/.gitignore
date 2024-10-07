@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+.gradle
+.allure
+build
+video
+out
+allure-results
+.DS_Store
